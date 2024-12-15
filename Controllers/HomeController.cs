@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using shop.Models;
 
@@ -80,6 +81,8 @@ ViewBag.error="اطلاعات وارد شده صحیح نیست";
     {
         return View();
     }
+     
+     [Authorize]
       public IActionResult profile()
     {
         return View();
