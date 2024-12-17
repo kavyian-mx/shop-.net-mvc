@@ -1,4 +1,7 @@
 using System.Diagnostics;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using shop.Models;
@@ -65,6 +68,24 @@ public class HomeController : Controller
          Context db = new Context();
          if (db.Tblusers.Any(x=>x.Email==email && x.Password==password) )
          {
+
+            Claim claim = new Claim(ClaimTypes.Name, db.Tblusers.First(x => x.Email == email).Namefamily);
+            var claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.Email, email)
+                
+            };
+
+            var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+            var authProperties = new AuthenticationProperties();
+
+            HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, 
+                new ClaimsPrincipal(claimsIdentity), 
+                authProperties);
+           
+           
+           
+           
             return  RedirectToAction("profile");
 
          }
@@ -86,6 +107,12 @@ ViewBag.error="اطلاعات وارد شده صحیح نیست";
       public IActionResult profile()
     {
         return View();
+    }
+
+          public IActionResult logout()
+    {
+        HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+        return RedirectToAction("Index");
     }
  
 }
