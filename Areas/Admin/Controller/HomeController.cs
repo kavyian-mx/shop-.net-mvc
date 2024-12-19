@@ -12,6 +12,11 @@ public ActionResult login()
 
 }
 
+public IActionResult index()
+{
+    // TODO: Your code here
+    return View();
+}
 
 
 

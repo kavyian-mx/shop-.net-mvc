@@ -69,10 +69,11 @@ public class HomeController : Controller
          if (db.Tblusers.Any(x=>x.Email==email && x.Password==password) )
          {
 
-            Claim claim = new Claim(ClaimTypes.Name, db.Tblusers.First(x => x.Email == email).Namefamily);
+            
             var claims = new List<Claim>
             {
-                new Claim(ClaimTypes.Email, email)
+                new Claim(ClaimTypes.Email, email),
+                new Claim(ClaimTypes.Name ,  db.Tblusers.First(x => x.Email == email).Namefamily)
                 
             };
 

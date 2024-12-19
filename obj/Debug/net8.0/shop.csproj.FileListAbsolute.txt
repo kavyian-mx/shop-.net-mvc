@@ -135,3 +135,4 @@ C:\Users\Matin\Desktop\shop\obj\Debug\net8.0\shop.pdb
 C:\Users\Matin\Desktop\shop\obj\Debug\net8.0\shop.genruntimeconfig.cache
 C:\Users\Matin\Desktop\shop\obj\Debug\net8.0\ref\shop.dll
 C:\Users\Matin\Desktop\shop\obj\Debug\net8.0\shop.sourcelink.json
+C:\Users\Matin\Desktop\shop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Sherad\_Layout.cshtml.rz.scp.css
