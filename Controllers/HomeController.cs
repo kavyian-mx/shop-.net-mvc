@@ -1,80 +1,74 @@
 using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using shop.Models;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using shop.Models;
 
 namespace shop.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
-    {
-        _logger = logger;
-    }
-
+    
     public IActionResult Index()
     {
         return View();
     }
 
-    public IActionResult Register()
+     public IActionResult Register()
     {
-
-      return View();
-    }
-
-    [HttpPost]
-        public IActionResult Register(string name , string email , string password)
-    {
-     
-     
-     
-     Context db = new Context();
-
-    if(db.Tblusers.Any(x=>x.Email==email))
-    {
-        ViewBag.error="این ایمیل قبلا ثبت شده است ";
         return View();
-
     }
 
-
-
-     Users x = new Users ();
-
-     x.Email = email;
-     x.Password = password;
-     x.Namefamily = name;
-     db.Tblusers.Add (x);
-     db.SaveChanges();
-
-     ViewBag.matin="ثبت نام با موفقیت انجام شد ";
-
-
-
-
-
-      return View();
-    }
+   
     [HttpPost]
-      public IActionResult login(string email, string password)
+    public IActionResult Register(string name,string email,string password)
     {
-        
-         Context db = new Context();
-         if (db.Tblusers.Any(x=>x.Email==email && x.Password==password) )
-         {
+        Context db=new Context();
 
-            
+
+        if (db.TblUsers.Any(matin => matin.Email==email))
+        {
+            ViewBag.error="ایمیل وارد شده تکراری است";
+             return View();
+        }
+
+
+        Users  x=new Users();
+       
+        x.Namefamily=name;
+        x.Email=email;
+        x.Password=password;
+
+        db.TblUsers.Add(x);
+        db.SaveChanges();
+
+         ViewBag.matin="ثبت نام با موفقیت انجام شد.";
+
+
+        return View();
+    }
+
+
+public IActionResult login()
+    {
+        return View();
+    }
+
+     [HttpPost]
+    public IActionResult login(string email,string password)
+    {
+
+        Context  db=new Context();
+
+        if (db.TblUsers.Any(x=>x.Email==email && x.Password==password))
+        {
+           
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Email, email),
-                new Claim(ClaimTypes.Name ,  db.Tblusers.First(x => x.Email == email).Namefamily)
-                
+                new Claim(ClaimTypes.Name, db.TblUsers.First(x => x.Email == email).Namefamily)
             };
 
             var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -83,37 +77,28 @@ public class HomeController : Controller
             HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, 
                 new ClaimsPrincipal(claimsIdentity), 
                 authProperties);
-           
-           
-           
-           
-            return  RedirectToAction("profile");
 
-         }
-         else
-         {
+            return RedirectToAction("Profile");
+        }else
+        {
+            ViewBag.error="اطلاعات وارد شده نادرست است ";
+        }
 
-ViewBag.error="اطلاعات وارد شده صحیح نیست";
-         }
-        
         return View();
     }
-    
-     public IActionResult login()
-    {
-        return View();
-    }
-     
-     [Authorize]
-      public IActionResult profile()
+
+[Authorize]
+public IActionResult Profile()
     {
         return View();
     }
 
-          public IActionResult logout()
+
+public IActionResult Logout()
     {
         HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
         return RedirectToAction("Index");
     }
- 
+
+   
 }

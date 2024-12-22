@@ -15,7 +15,7 @@ namespace shop.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0")
+                .HasAnnotation("ProductVersion", "8.0.1")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -42,7 +42,7 @@ namespace shop.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Tblusers");
+                    b.ToTable("TblUsers");
                 });
 #pragma warning restore 612, 618
         }

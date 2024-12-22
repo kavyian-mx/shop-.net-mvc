@@ -1,12 +1,12 @@
-
-
 <section class="inner-page" id="contact-page">
- @if(ViewBag.error != null)
-{
- <p class="alert alert-danger p-3 m-7 mt-4 container text-center">@ViewBag.error </p>
+    
+    @if(ViewBag.error != null)
+    {
+        <p class="alert alert-danger p-3 m-7 container mt-3 text-center">@ViewBag.error</p>
+    }
 
-}
-<form action="/home/login" method="post">
+    <form action="/home/login" method="post">
+
     <div class="container py-2 py-md-5">
         <div class="row">
             <div class="col-12 col-sm-10 offset-sm-1">
@@ -27,7 +27,7 @@
                                 <input type="password" class="form-control" name="password">
                             </div>
                             <div class="form-group">
-                                <a><input type="submit" value="ورود به ناحیه کاربری" class="btn btn-success"></a>
+                                <a href=""><input type="submit" value="ورود به ناحیه کاربری" class="btn btn-success"></a>
                             </div>
                         </div>
                     </div>
@@ -36,6 +36,6 @@
         </div>
     </div>
 
-</form>
-</section>
+  </form>
 
+</section>

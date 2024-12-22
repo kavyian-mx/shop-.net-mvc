@@ -1,5 +1,83 @@
-   <div class="container-xxl flex-grow-1 container-p-y">
+ <!-- Content wrapper -->
+          <div class="content-wrapper">
+            <!-- Content -->
 
-    
+            <div class="container-xxl flex-grow-1 container-p-y">
+            <p class="alert alert-primary p-3 m-3 text-center">  اضافه کردن اسلایدرها </p>
 
-   </div>
+              <div class="row">
+                <!-- Basic  -->
+                <div class="col-12">
+                  <div class="card mb-4">
+                    <h5 class="card-header heading-color">اضافه کردن اسلایدر</h5>
+                    <div class="card-body">
+                      <form action="/upload" class="dropzone needsclick" id="dropzone-basic">
+                        <div class="dz-message needsclick">
+                          اسلایدرهای  را اینجا رها کنید و یا کلیک کنید
+                        </div>
+                        <div class="fallback">
+                          <input name="file" type="file">
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <!-- /Basic  -->
+                <!-- Multi  -->
+                <div class="col-12">
+                  <div class="card">
+                    
+                    <button class="btn btn-info">آپلود اسلایدرها </button>
+                     
+                  </div>
+                </div>
+                <!-- Multi  -->
+              </div>
+            </div>
+            <!-- / Content -->
+
+           
+            <!-- / Footer -->
+
+            <div class="content-backdrop fade"></div>
+
+
+            <div class="row container-xxl flex-grow-1 container-p-y">
+            <div class="col-12">
+              <div class="card">
+                <h5 class="card-header">لیست اسلایدرها</h5>
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <table class="table table-bordered">
+                      <thead>
+                        <tr>
+                          <th scope="col">ردیف</th>
+                         
+                          <th scope="col">تصویر</th>
+                          <th scope="col">وضعیت</th>
+                          <th scope="col">عملیات</th>
+                        </tr>
+                      </thead>
+                      
+                      <tr>
+                        <th scope="row">1</th>
+                        <td><img src="@Url.Content("~/assets/img/slider/1.jpg")" alt="Slider Image" class="img-fluid"></td>
+                        <td>فعال</td>
+                        <td>
+                       
+                          <a href="#" class="btn btn-danger">حذف</a>
+                        </td>
+                      </tr>
+                      <tbody>
+                        <!-- Data will be dynamically generated here -->
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+         <!-- #region  -->  </div>
+          <!-- Content wrapper -->
+
+          

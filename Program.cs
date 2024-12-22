@@ -1,4 +1,5 @@
-using System.Reflection.Emit;
+
+
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.Extensions.Options;
 
@@ -7,12 +8,17 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
 .AddCookie(Options=>
 {
-    Options.LoginPath="/home/login";
-    Options.LogoutPath="/home/logout";
-});  
+     Options.LoginPath="/home/login";
+     Options.LogoutPath="/home/logout";
+}
+
+
+);
+
 
 
 var app = builder.Build();
@@ -33,13 +39,9 @@ app.UseRouting();
 app.UseAuthorization();
 
 
-
 app.MapControllerRoute(
- name: "areas",
-pattern: "{area=exists}/{controller=Home}/{action=login}/{id?}");
-
-
-
+    name: "areas",
+    pattern: "{area:exists}/{controller=Home}/{action=login}/{id?}");
 
 
 app.MapControllerRoute(

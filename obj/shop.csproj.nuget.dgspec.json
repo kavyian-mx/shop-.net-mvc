@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matin\\Desktop\\shop\\shop.csproj": {}
+    "C:\\Users\\Matin\\Desktop\\MarketShop-master\\shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matin\\Desktop\\shop\\shop.csproj": {
+    "C:\\Users\\Matin\\Desktop\\MarketShop-master\\shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matin\\Desktop\\shop\\shop.csproj",
+        "projectUniqueName": "C:\\Users\\Matin\\Desktop\\MarketShop-master\\shop.csproj",
         "projectName": "shop",
-        "projectPath": "C:\\Users\\Matin\\Desktop\\shop\\shop.csproj",
+        "projectPath": "C:\\Users\\Matin\\Desktop\\MarketShop-master\\shop.csproj",
         "packagesPath": "C:\\Users\\Matin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matin\\Desktop\\shop\\obj\\",
+        "outputPath": "C:\\Users\\Matin\\Desktop\\MarketShop-master\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,13 +52,13 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.1, )"
             }
           },
           "imports": [

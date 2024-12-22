@@ -10,15 +10,15 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace shop.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20241212191722_change")]
-    partial class change
+    [Migration("20241208192541_first")]
+    partial class first
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0")
+                .HasAnnotation("ProductVersion", "8.0.1")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -45,7 +45,7 @@ namespace shop.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Tblusers");
+                    b.ToTable("TblUsers");
                 });
 #pragma warning restore 612, 618
         }
