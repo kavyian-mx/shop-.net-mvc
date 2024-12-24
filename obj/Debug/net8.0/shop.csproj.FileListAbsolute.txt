@@ -135,140 +135,141 @@ C:\Users\Apple\Desktop\shop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Wind
 C:\Users\Apple\Desktop\shop\obj\Debug\net8.0\shop.csproj.AssemblyReference.cache
 C:\Users\Apple\Desktop\shop\obj\Debug\net8.0\shop.csproj.Up2Date
 C:\Users\Apple\Desktop\shop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\appsettings.json
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\shop.staticwebassets.runtime.json
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\shop.exe
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\shop.deps.json
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\shop.runtimeconfig.json
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\shop.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\shop.pdb
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Humanizer.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Matin\Desktop\MarketShop-master\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.csproj.AssemblyReference.cache
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.AssemblyInfoInputs.cache
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.AssemblyInfo.cs
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.csproj.CoreCompileInputs.cache
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.RazorAssemblyInfo.cache
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.RazorAssemblyInfo.cs
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\staticwebassets\msbuild.shop.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\staticwebassets\msbuild.build.shop.props
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.shop.props
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.shop.props
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\scopedcss\bundle\shop.styles.css
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\scopedcss\projectbundle\shop.bundle.scp.css
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.csproj.Up2Date
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.dll
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\refint\shop.dll
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.pdb
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\shop.genruntimeconfig.cache
-C:\Users\Matin\Desktop\MarketShop-master\obj\Debug\net8.0\ref\shop.dll
+C:\Users\Apple\Desktop\shop\obj\Debug\net8.0\shop.sourcelink.json
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\appsettings.Development.json
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\appsettings.json
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\shop.staticwebassets.runtime.json
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\shop.exe
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\shop.deps.json
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\shop.runtimeconfig.json
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\shop.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\shop.pdb
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Azure.Core.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Azure.Identity.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Humanizer.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.CodeDom.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.csproj.AssemblyReference.cache
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.AssemblyInfoInputs.cache
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.AssemblyInfo.cs
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.csproj.CoreCompileInputs.cache
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.MvcApplicationPartsAssemblyInfo.cache
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.RazorAssemblyInfo.cache
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.RazorAssemblyInfo.cs
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\staticwebassets.build.json
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\staticwebassets.development.json
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\staticwebassets\msbuild.shop.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\staticwebassets\msbuild.build.shop.props
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.shop.props
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.shop.props
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\scopedcss\bundle\shop.styles.css
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\scopedcss\projectbundle\shop.bundle.scp.css
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.csproj.Up2Date
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\refint\shop.dll
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.pdb
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\shop.genruntimeconfig.cache
+E:\ostad Ghasemi\chapter 8\MarketShop\obj\Debug\net8.0\ref\shop.dll
