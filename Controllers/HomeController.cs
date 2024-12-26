@@ -5,14 +5,20 @@ using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace shop.Controllers;
 
 public class HomeController : Controller
 {
-    
+
     public IActionResult Index()
-    {
+    {    
+        Context db=new Context();
+        ViewBag.first=db.TblSliders.OrderByDescending(x=>x.Id).FirstOrDefault();
+        ViewBag.list=db.TblSliders.OrderByDescending(x=>x.Id).Skip(1).ToList();
+        ViewBag.Count=db.TblSliders.Count()-1;
+         ViewBag.listBaner=db.TblBaner.OrderByDescending(x=>x.Id).Take(3).ToList();
         return View();
     }
 
@@ -101,4 +107,22 @@ public IActionResult Logout()
     }
 
    
+}
+
+internal class ViewBag
+{
+}
+
+
+internal record struct NewStruct(object Item1, object Item2)
+{
+    public static implicit operator (object, object)(NewStruct value)
+    {
+        return (value.Item1, value.Item2);
+    }
+
+    public static implicit operator NewStruct((object, object) value)
+    {
+        return new NewStruct(value.Item1, value.Item2);
+    }
 }

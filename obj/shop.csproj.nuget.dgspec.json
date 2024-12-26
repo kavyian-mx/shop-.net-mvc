@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ostad Ghasemi\\chapter 8\\MarketShop\\shop.csproj": {}
+    "E:\\ostad Ghasemi\\chapter 9\\shop\\shop.csproj": {}
   },
   "projects": {
-    "E:\\ostad Ghasemi\\chapter 8\\MarketShop\\shop.csproj": {
+    "E:\\ostad Ghasemi\\chapter 9\\shop\\shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ostad Ghasemi\\chapter 8\\MarketShop\\shop.csproj",
+        "projectUniqueName": "E:\\ostad Ghasemi\\chapter 9\\shop\\shop.csproj",
         "projectName": "shop",
-        "projectPath": "E:\\ostad Ghasemi\\chapter 8\\MarketShop\\shop.csproj",
+        "projectPath": "E:\\ostad Ghasemi\\chapter 9\\shop\\shop.csproj",
         "packagesPath": "C:\\Users\\Matin\\.nuget\\packages\\",
-        "outputPath": "E:\\ostad Ghasemi\\chapter 8\\MarketShop\\obj\\",
+        "outputPath": "E:\\ostad Ghasemi\\chapter 9\\shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
