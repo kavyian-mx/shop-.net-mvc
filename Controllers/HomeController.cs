@@ -19,6 +19,7 @@ public class HomeController : Controller
         ViewBag.list=db.TblSliders.OrderByDescending(x=>x.Id).Skip(1).ToList();
         ViewBag.Count=db.TblSliders.Count()-1;
          ViewBag.listBaner=db.TblBaner.OrderByDescending(x=>x.Id).Take(3).ToList();
+         ViewBag.listLogo=db.TblLogo.OrderByDescending(x=>x.Id).FirstOrDefault();
         return View();
     }
 

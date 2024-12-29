@@ -11,6 +11,8 @@ public class Context : DbContext
 
      public DbSet<Baner> TblBaner { get; set; }
 
+     public DbSet<Logo> TblLogo { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer("server=.;database=Shopmarket;trusted_connection=true;MultipleActiveResultSets=True;TrustServerCertificate=True");

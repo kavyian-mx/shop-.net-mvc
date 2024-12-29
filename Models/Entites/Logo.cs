@@ -1,12 +1,12 @@
 using System.ComponentModel.DataAnnotations;
 
-public class Baner
+public class Logo
 {
 
     [Key]
     public int Id { get; set; }
 
-    public string PathBaner { get; set; }
+    public string PathLogo { get; set; }
 
     public bool Active { get; set; }
    
