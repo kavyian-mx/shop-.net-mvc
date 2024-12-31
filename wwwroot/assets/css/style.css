@@ -1687,6 +1687,13 @@ img {
   aspect-ratio: attr(width)/attr(height);
 }
 
+.img1 {
+  max-width: 35%;
+  border-radius:50%; 
+  height: auto;
+  aspect-ratio: attr(width)/attr(height);
+}
+
 /* Owl Carousel */
 .owl-carousel .owl-nav {
   font-size: 24px;

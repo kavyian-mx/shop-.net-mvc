@@ -1,4 +1,7 @@
-﻿<!doctype html>
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor  HttpContextAccessor
+
+
+<!doctype html>
 <html lang="fa" dir="rtl">
 
 <!-- Mirrored from rubik-market-html.wbrk.ir/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 12 Aug 2023 06:30:53 GMT -->
@@ -45,9 +48,15 @@
         <div class="container pt-1">
             <div class="row py-3 align-content-center">
                 <div class="col-12 col-md-3 col-xl-2 text-center text-md-start pb-2" id="encode4326523bvfb">
+                    
+                   @if(@HttpContextAccessor.HttpContext.Session.GetString("logo") != null){
                     <a href="/home/index">
-                        <img src="/Uploads/Logo/@ViewBag.listLogo.PathLogo" alt=""> روبیک مارکت
-                    </a>
+                        <img  src="/Uploads/Logo/@HttpContextAccessor.HttpContext.Session.GetString("logo")" alt=""> روبیک مارکت
+                
+                   </a>
+                   } 
+         
+
                 </div>
                 <div class="col-12 col-md-5 col-xl-6">
                     <div id="search-bar">
@@ -417,7 +426,12 @@
             </div>
             <div class="col-12 col-md-12 col-lg-6">
                 <hr class="d-lg-none">
-                <img src="/assets/images/logo.png" alt=""> روبیک مارکت
+                                   @if(@HttpContextAccessor.HttpContext.Session.GetString("logo") != null){
+                    <a href="/home/index">
+                        <img class="img1"  src="/Uploads/Logo/@HttpContextAccessor.HttpContext.Session.GetString("logo")" alt=""> روبیک مارکت
+                
+                   </a>
+                   }  
                 <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.</p>
                 <div class="row">
                     <div class="col-12 col-md-6 text-center p-2" id="encode43vfbb65gtabfb">
