@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L5pfU6bnP5ZzoMgoHY7MnhHZVMPw55TOzua6AJt+G4U=",
+  "Hash": "QVfUZvR4bx6pYW34/T+TLP7mHpmbu6uL2F8IKylw+Uw=",
   "Source": "shop",
   "BasePath": "_content/shop",
   "Mode": "Default",
@@ -37352,6 +37352,25 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Baner\\7d65bf36-326a-423a-b115-f6f6da0c7049.jpg"
     },
     {
+      "Identity": "C:\\Users\\Matin\\Desktop\\shop\\wwwroot\\Uploads\\Baner\\b1840e9c-ad10-4e3f-86b3-8aa1ec10ae8d.png",
+      "SourceId": "shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matin\\Desktop\\shop\\wwwroot\\",
+      "BasePath": "_content/shop",
+      "RelativePath": "Uploads/Baner/b1840e9c-ad10-4e3f-86b3-8aa1ec10ae8d.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Baner\\b1840e9c-ad10-4e3f-86b3-8aa1ec10ae8d.png"
+    },
+    {
       "Identity": "C:\\Users\\Matin\\Desktop\\shop\\wwwroot\\Uploads\\Baner\\d225ff96-113c-4606-8fb2-2e3d456d2e59.jpg",
       "SourceId": "shop",
       "SourceType": "Discovered",
@@ -37407,6 +37426,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\Logo\\24ebad70-f540-4ced-87c4-f243c17c72c4.png"
+    },
+    {
+      "Identity": "C:\\Users\\Matin\\Desktop\\shop\\wwwroot\\Uploads\\Logo\\3bdc4367-88f6-4563-8da7-93ddcd9f2cae.png",
+      "SourceId": "shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matin\\Desktop\\shop\\wwwroot\\",
+      "BasePath": "_content/shop",
+      "RelativePath": "Uploads/Logo/3bdc4367-88f6-4563-8da7-93ddcd9f2cae.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Logo\\3bdc4367-88f6-4563-8da7-93ddcd9f2cae.png"
     },
     {
       "Identity": "C:\\Users\\Matin\\Desktop\\shop\\wwwroot\\Uploads\\Logo\\66b66e3f-a386-437d-a8b0-e2dd0cb48f06.jpg",

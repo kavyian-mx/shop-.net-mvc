@@ -11,6 +11,8 @@ public class Context : DbContext
 
      public DbSet<Baner> TblBaner { get; set; }
 
+     public DbSet<Menu> TblMenu { get; set; }
+
      public DbSet<Logo> TblLogo { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

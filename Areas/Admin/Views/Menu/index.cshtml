@@ -1,0 +1,77 @@
+<div class="content-wrapper">
+  <!-- Content -->
+  <div class="container-xxl flex-grow-1 container-p-y">
+    <p class="alert alert-primary p-3 m-3 text-center">اضافه کردن منو</p>
+
+    <div class="row card">
+      <!-- Basic -->
+      <form action="/admin/menu/index" method="post">
+      <div class="row p-3">
+
+   
+
+                        <div class="col-4">
+                            <label class="col-sm-2 col-form-label"></label>
+                            <div class="col-sm-10">
+                                <input class="form-control" placeholder="نام دسته بندی" name="cat" />
+                                <span  class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class=" col-4">
+                        <select  class="form-control mt-4" name="parent" asp-items="ViewBag.Select">
+                            <option value="0"> دسته اصلی  </option>
+                           
+                        </select>
+                        </div>
+                        <div class=" col-4 mt-4">
+                            <div class="col-sm-10">
+                                <input type="submit" value="ذخیره" class="btn btn-primary" />
+                            </div>
+                        </div>
+
+                            </div>
+      </form>     
+   
+      <!-- /Basic -->
+
+
+      
+    </div>
+
+    @* create table for show category *@
+    <div class="row card">
+      <!-- Basic -->
+      <div class="row p-3">
+        <table class="table table-striped table-bordered">
+          <thead>
+            <tr>
+              <th>ردیف</th>
+              <th>نام دسته بندی</th>
+              <th>نام دسته اصلی</th>
+              <th>عملیات</th>
+            </tr>
+          </thead>
+          <tbody>
+@{
+
+    int i =1;
+}
+            @foreach(var item in ViewBag.Menu ){
+            <tr>
+              <td>@i</td>
+              <td>@item.CatName</td>
+              <td>@item.ParntId</td>
+              
+              <td>
+                <a href="#" class="btn btn-danger">حذف</a>
+              </td>
+            </tr>
+            i++;
+            }
+
+  
+          </tbody>
+        </table>
+      </div>
+      <!-- /Basic -->
+  </div>
