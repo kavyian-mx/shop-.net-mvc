@@ -13,7 +13,7 @@ public class MenuController:Controller
     {
         Context db = new Context();
         ViewBag.Menu=db.TblMenu.ToList();
-        ViewBag.Select = new SelectList(db.TblMenu.ToList(), "id", "CatName" );
+        ViewBag.Select = new SelectList(db.TblMenu.ToList(), "Id", "CatName");
         
         return View();
     }
