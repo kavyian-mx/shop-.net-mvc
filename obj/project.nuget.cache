@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zICFXPv8hGg=",
+  "dgSpecHash": "5OeDEXxERBE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matin\\Desktop\\shop\\shop.csproj",
+  "projectFilePath": "C:\\Users\\Matin\\Desktop\\shop-.net-mvc-master\\shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Matin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

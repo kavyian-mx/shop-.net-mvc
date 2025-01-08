@@ -9,91 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = shop
 build_property.RootNamespace = shop
-build_property.ProjectDir = C:\Users\Matin\Desktop\shop\
+build_property.ProjectDir = C:\Users\Matin\Desktop\shop-.net-mvc-master\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Matin\Desktop\shop
+build_property.MSBuildProjectDirectory = C:\Users\Matin\Desktop\shop-.net-mvc-master
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/Baner/index.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/Baner/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFuZXJcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/Home/index.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/Home/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/Home/login.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/Home/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/Logo/index.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/Logo/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9nb1xpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/Menu/index.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/Menu/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/Slider/index.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/Slider/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/Home/Index.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/Home/login.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/Home/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/Home/Privacy.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/Home/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/Home/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/Home/Register.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/Home/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/Shared/Error.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/_ViewImports.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Views/_ViewStart.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Matin/Desktop/shop/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yfbykjsfn2
 
-[C:/Users/Matin/Desktop/shop/Views/Shared/_Layout.cshtml]
+[C:/Users/Matin/Desktop/shop-.net-mvc-master/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tuagetb7ef
