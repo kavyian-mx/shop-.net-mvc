@@ -60,10 +60,34 @@
             <tr>
               <td>@i</td>
               <td>@item.CatName</td>
-              <td>@item.ParentId</td>
+
+              @if(item.ParentId==0)
+              
+              {
+                <td>دسته اصلی</td>
+
+              }else{
+
+               @foreach(var item1 in ViewBag.Menu ){
+
+                if(item.ParentId==item1.Id)
+                {
+                   <td>@item.CatName</td>
+                   break;
+              
+                }
+
+
+              
+               }
+
+
+              }
+
+
               
               <td>
-                <a href="#" class="btn btn-danger">حذف</a>
+                <a href="/admin/Menu/delete/@item.Id"  class="btn btn-danger" onclick="return confirm('آیا از حذف خود اطمینان دارید')">حذف</a>
               </td>
             </tr>
             i++;

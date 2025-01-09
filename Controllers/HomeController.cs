@@ -22,6 +22,7 @@ public class HomeController : Controller
          string namelogo=db.TblLogo.OrderByDescending(x=>x.Id).FirstOrDefault().PathLogo.ToString();
          
          HttpContext.Session.SetString("logo",namelogo);
+         ViewBag.menu=db.TblMenu.ToList();
         
         
         return View();

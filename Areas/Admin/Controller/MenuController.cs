@@ -31,6 +31,18 @@ public class MenuController:Controller
         return RedirectToAction("index");
     }
 
+    [HttpGet]
+    public IActionResult delete(int id )
+    {
+        Context db=new Context();
+         var Menu=db.TblMenu.Find(id);
+         db.TblMenu.Remove(Menu);
+         db.SaveChanges();
+        return RedirectToAction("index");
+        
+
+    }
+
     
     
     
