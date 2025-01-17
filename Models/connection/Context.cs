@@ -15,6 +15,16 @@ public class Context : DbContext
 
      public DbSet<Logo> TblLogo { get; set; }
 
+     public DbSet<Product> TblProduct { get; set; }
+
+     public DbSet<Color> TblColor { get; set; }
+
+     public DbSet<Brand> TblBrand { get; set; }
+
+     public DbSet<Images> TblImages { get; set; }
+
+     public DbSet<Comment> TblComment { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer("server=.;database=Shopmarket;trusted_connection=true;MultipleActiveResultSets=True;TrustServerCertificate=True");
