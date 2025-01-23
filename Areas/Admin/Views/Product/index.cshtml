@@ -20,7 +20,7 @@
 
                               <div class="col-md-6">
                               <label class="form-label">نام برند </label>
-                              <select id="state" class="select2 form-select" data-allow-clear="true">
+                              <select id="state" class="select2 form-select" data-allow-clear="true" asp-items="@ViewBag.BrandList" >
                                 <option value="">انتخاب</option>
 
                               </select>
@@ -28,13 +28,13 @@
 
                              <div class="col-md-6">
                               <label class="form-label"> نام دسته بندی </label>
-                              <select id="state" class="select2 form-select" data-allow-clear="true">
+                              <select id="state" class="select2 form-select" data-allow-clear="true" asp-items="@ViewBag.MenuList">
                                 <option value="">انتخاب</option>
 
                               </select>
                             </div>
                             <div class="col-md-6">
-                              <label class="form-label" for="email">قیمت</label>
+                              <label class="form-label numeric">قیمت</label>
                               <div class="input-group input-group-merge">
                                 <input class="form-control text-start" type="text" placeholder="1000.000" dir="ltr">
                               </div>
@@ -62,10 +62,14 @@
                                 <option value="فروش ویژه">  فروش ویژه</option>
                               </select>
                             </div>
-                            <div class="col-md-6">
-                              <label class="form-label" for="alt-num">شماره دیگر</label>
-                              <input type="text" id="alt-num" class="form-control phone-mask text-start" placeholder="658 799 8941" dir="ltr">
-                            </div>
+                            <div class="col-md-6 mb-4">
+                          <label for="select2Primary" class="form-label">رنگ ها </label>
+                          <div class="select2-primary">
+                            <select id="select2Primary" class="select2 form-select" multiple asp-items="@ViewBag.ColorList">
+
+                            </select>
+                          </div>
+                        </div>
                         </div>
                       </div>
                     </div>
