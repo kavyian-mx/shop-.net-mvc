@@ -1,0 +1,83 @@
+          <!-- Content wrapper -->
+          <div class="content-wrapper">
+            <!-- Content -->
+
+            <div class="container-xxl flex-grow-1 container-p-y">
+              <!-- Sticky Actions -->
+              <div class="row">
+                <div class="col-12">
+                  <div class="card">
+                    <div class="card-body">
+                      <div class="row">
+                        <div class="col-lg-8 mx-auto">
+                          <!-- 1. Delivery Address -->
+                          <h3 class="p-1 text-center alert alert-danger">ثبت محصول </h3>
+                          <div class="row g-3">
+                            <div class="col-md-6">
+                              <label class="form-label" for="fullname"> نام محصول</label>
+                              <input type="text" class="form-control" placeholder=" محصول خود وارد نمایید">
+                            </div>
+
+                              <div class="col-md-6">
+                              <label class="form-label">نام برند </label>
+                              <select id="state" class="select2 form-select" data-allow-clear="true">
+                                <option value="">انتخاب</option>
+
+                              </select>
+                            </div>
+
+                             <div class="col-md-6">
+                              <label class="form-label"> نام دسته بندی </label>
+                              <select id="state" class="select2 form-select" data-allow-clear="true">
+                                <option value="">انتخاب</option>
+
+                              </select>
+                            </div>
+                            <div class="col-md-6">
+                              <label class="form-label" for="email">قیمت</label>
+                              <div class="input-group input-group-merge">
+                                <input class="form-control text-start" type="text" placeholder="1000.000" dir="ltr">
+                              </div>
+                            </div>
+                            <div class="col-md-6">
+                              <label class="form-label"> تخفیف </label>
+                              <input type="text" id="phone" class="form-control phone-mask text-start"  placeholder="درصد تخفیف را وارد کنید " dir="ltr" aria-label="658 799 8941">
+                            </div>
+
+                            <div class="col-md-6">
+                              <label class="form-label">نوع گارانتی </label>
+                              <select id="state" class="select2 form-select" data-allow-clear="true">
+                                <option value="0">بدون گارانتی</option>
+                                <option value="6">گارانتی شش ماهه </option>
+                                <option value="12">گارانتی یک ساله</option>
+                              </select>
+                            </div>
+                            <div class="col-md-6">
+                              <label class="form-label">نوع محصول </label>
+                              <select id="state" class="select2 form-select" data-allow-clear="true">
+                                <option value="معمولی">معمولی </option>
+                                <option value="منتخب">منتخب </option>
+                                <option value="پربازدید">پربازدید </option>
+                                <option value="پرفروش">  پرفروش</option>
+                                <option value="فروش ویژه">  فروش ویژه</option>
+                              </select>
+                            </div>
+                            <div class="col-md-6">
+                              <label class="form-label" for="alt-num">شماره دیگر</label>
+                              <input type="text" id="alt-num" class="form-control phone-mask text-start" placeholder="658 799 8941" dir="ltr">
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- /Sticky Actions -->
+            </div>
+            <!-- / Content -->
+
+            @Html.Partial("_PartialFileUploads")
+
+            <hr>
+            @Html.Partial("_PartialEditorFile")
+        

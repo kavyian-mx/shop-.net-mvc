@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1lsulGKEV9ENG8hIsYjXd5sAdngv9FPvglWpHZ0+UL0=",
+  "Hash": "6xxGJvDWAZE87z65V2WboN3899ieZ9pNcN0SXNT3Mz8=",
   "Source": "shop",
   "BasePath": "_content/shop",
   "Mode": "Default",
@@ -37730,6 +37730,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\Sliders\\a4d6ebbb-4cb5-4bea-8854-d09d498fa281.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Matin\\Desktop\\shop-.net-mvc-master\\wwwroot\\Uploads\\Sliders\\bbf09e26-0335-4b65-bb04-88f833e7503a.jpg",
+      "SourceId": "shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matin\\Desktop\\shop-.net-mvc-master\\wwwroot\\",
+      "BasePath": "_content/shop",
+      "RelativePath": "Uploads/Sliders/bbf09e26-0335-4b65-bb04-88f833e7503a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Sliders\\bbf09e26-0335-4b65-bb04-88f833e7503a.jpg"
     },
     {
       "Identity": "C:\\Users\\Matin\\Desktop\\shop-.net-mvc-master\\wwwroot\\Uploads\\Sliders\\d2ce3a27-a8d7-4dcd-ba53-2ccff0a67933.jpg",
